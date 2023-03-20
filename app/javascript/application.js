@@ -8,12 +8,10 @@ import "theme/chart-area-demo"
 import "theme/chart-bar-demo"
 import "theme/datatables-simple-demo"
 
-
-// alert('hi');
+window.$ = $
 
 // $('#example').DataTable()
 
-debugger
 let table = new DataTable('#example', {
     responsive: true
 });
