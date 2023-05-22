@@ -1,0 +1,12 @@
+apiVersion: v1
+data:
+  password: NHJIeEo2MjFZUUlEZU5vYVprak0=
+  username: cG9zdGdyZXM=
+kind: Secret
+metadata:
+  creationTimestamp: "2023-05-20T07:47:36Z"
+  name: db-creds
+  namespace: default
+  resourceVersion: "5135"
+  uid: 11000658-11b3-441b-9a78-00b9c73d8aee
+type: Opaque
